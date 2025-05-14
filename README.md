@@ -1,11 +1,12 @@
 # Fraudulent Claim Detection Assignment
-> to build a model to classify insurance claims as either fraudulent or legitimate based on historical claim details and customer profiles.
+> To build a model to classify insurance claims as either fraudulent or legitimate based on historical claim details and customer profiles.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Team Members](#team-members)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -34,7 +35,8 @@ Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+## Team Members
+Rajesh Suresh Thakur (Only 1 member)
 
 
 
